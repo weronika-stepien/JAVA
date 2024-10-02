@@ -1,3 +1,5 @@
+<div align="center">
+
 # Rock-Paper-Scissors
 #### JavaFX-based implementation of the classic game
 
