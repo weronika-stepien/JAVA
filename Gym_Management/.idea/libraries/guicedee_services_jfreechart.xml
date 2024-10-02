@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="guicedee.services.jfreechart" type="repository">
+    <properties maven-id="com.guicedee.services:jfreechart:1.0.19.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jfreechart/1.0.19.0/jfreechart-1.0.19.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.servlet-api/1.0.19.0/jakarta.servlet-api-1.0.19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
