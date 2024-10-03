@@ -1,9 +1,9 @@
 <div align="center">
 
-# Text Editor
+# Timer
 
 
-![Preview](../../Images/text-editor.png)
+![Preview](../../Images/timer.png)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&labelColor=black) ![Static Badge](https://img.shields.io/badge/8-blue?style=for-the-badge&label=java&labelColor=black)  ![Static Badge](https://img.shields.io/badge/windows%20%7C%20macOs%20%7C%20linux-blue?style=for-the-badge&label=platform&labelColor=black)
 
@@ -26,27 +26,27 @@
 
 
 ## Overview
-This project provides a basic text editor with the ability to open and save files, adjust font properties, and change text color. The editor is built using Java Swing and includes a menu bar for easy navigation.
+This project is a minimalistic stopwatch built using Java's Swing library. It features a user interface with clear controls for starting, stopping, and resetting the timer, which displays hours, minutes, and seconds.
 
 ------------
 
 
 
 ## Key Features
-##### Open Text Files
-###### Users can open .txt files directly from their system and edit the contents within the application.
-##### Save Text Files
-###### The editor allows users to save their work by writing the contents of the text area to a .txt file.
-##### Adjust Font Size
-###### The built-in font size spinner lets users easily increase or decrease the font size for better readability.
-##### Change Font Color
-######  The editor includes a color picker that allows users to change the color of the text to any color of their choice.
-##### Select Different Fonts
-######  Users can select from a wide variety of fonts provided by the system, offering customization in text appearance.
-##### Scrollable Text Area
-###### The text area is equipped with a scroll pane, allowing users to work with longer documents without losing track of the text.
-##### Line Wrap Feature
-###### Text automatically wraps to the next line when it reaches the edge of the window, making long text easier to read.
+##### Start and Stop Functionality
+###### The stopwatch allows users to easily start and stop the timer with a single click of the "START" or "STOP" button.
+##### Reset Timer
+###### The stopwatch includes a "RESET" button, allowing users to quickly reset the timer back to zero.
+##### Real-Time Time Tracking
+###### The application updates the timer every second, displaying elapsed time in hours, minutes, and seconds.
+##### Simple Graphical User Interface
+######  The stopwatch features a clean, easy-to-use graphical interface built with Java Swing.
+##### Formatted Time Display
+######  The time is displayed in a well-formatted hours:minutes
+layout, ensuring clarity for the user.
+##### Toggle Between Start and Stop
+###### The start button automatically switches to "STOP" when the timer is running, making it intuitive to pause and resume the timer.
+
 
 
 ------------
@@ -71,10 +71,10 @@ $ git clone <repository_url>
 ```
 ###### If you're using the executable file:
 - Navigate to the repository's `releases` folder where the executable file is located.
-- Double-click the executable file (`txtEdit.jar`) to launch the game.
+- Double-click the executable file (`timer.jar`) to launch the game.
 - If the executable does not open via double-click, run the following command from the terminal/command prompt:
 ```bash
-$  ./txtEdit
+$  ./timer
 ```
 ###### If you're running from Source Code
 - Open the project in your preferred  `IDE` (e.g. IntelliJ IDEA, Eclipse).
@@ -108,7 +108,6 @@ If you'd like to contribute a fix for the issue, you're welcome to submit a pull
 ------------
 
 </div>
-
 
 
 
