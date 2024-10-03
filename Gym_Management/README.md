@@ -7,7 +7,7 @@
 ![Preview](/Images/gym.gif)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&labelColor=black) ![Static Badge](https://img.shields.io/badge/8-blue?style=for-the-badge&label=java&labelColor=black) ![Static Badge](https://img.shields.io/badge/javafx-black?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Connected-blue?style=for-the-badge&labelColor=black) ![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?style=for-the-badge&labelColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-Connected-blue?style=for-the-badge&labelColor=black)
 
 
 

@@ -6,7 +6,7 @@
 
 ![Preview](/Images/sudoku.png)
 
-![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&labelColor=black) ![Static Badge](https://img.shields.io/badge/8-blue?style=for-the-badge&label=JAVA&labelColor=black ) ![Static Badge](https://img.shields.io/badge/windows%20%7C%20macOs%20%7C%20linux-blue?style=for-the-badge&label=platform&labelColor=black) ![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?style=for-the-badge&labelColor=black)
+![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&labelColor=black) ![Static Badge](https://img.shields.io/badge/8-blue?style=for-the-badge&label=JAVA&labelColor=black ) ![Static Badge](https://img.shields.io/badge/windows%20%7C%20macOs%20%7C%20linux-blue?style=for-the-badge&label=platform&labelColor=black)
 
 
 
