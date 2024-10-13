@@ -66,8 +66,7 @@ $ java -version
 $ git clone <repository_url>
 ```
 ###### If you're using the executable file:
-- Navigate to the repository's `releases` folder where the executable file is located.
-- Double-click the executable file (`calculator.jar`) to launch the game.
+- Double-click the executable file (`Mini_Calculator.jar`) to launch the game.
 - If the executable does not open via double-click, run the following command from the terminal/command prompt:
 ```bash
 $  ./calculator
